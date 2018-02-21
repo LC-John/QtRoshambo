@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/bmp">
+        <file>figures/icon.bmp</file>
+    </qresource>
+</RCC>
